@@ -1,2 +1,2 @@
 # statistical-simulation  
-A Repository to hold various codes for perd=forming simulation and estimation exercises
+A Repository to hold various codes for performing simulation and estimation exercises
